@@ -41,7 +41,7 @@ RTS-6.13 and BidAskStrategy makes use of difference between bid/ask values of tw
 
 and SBERBANK
 
-In order to understand trading strategies it is useful to know some popular trading terminology like:
+In order to understand trading strategies it is useful to know some popular trading terminology like:  
 -ticks  
 -bid/ask  
 -open/close and spread  
