@@ -3,7 +3,7 @@ traderobots1
 
 Trade robots exploiting three different trading strategies 
 
-These robots are based on COM-based SmartLab API provided by ITinvest (broker company headquartered 
+These robots are based on COM SmartLab API provided by ITinvest (broker company headquartered 
 
 in Moscow, Russia, more info at http://www.itinvest.ru/) which serves as an intermediary between trader
 
