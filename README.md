@@ -19,21 +19,21 @@ choice on C# since we need some extra information (e.g. GUID, CLSID etc.) to mak
 
 within C++ program whereas in C# it is just the matter of linking COM module by simply choosing it in 
 
-the project properties - by doing so all COM functions become automatically visible across the program
+the project properties - by doing so all COM functions become automatically visible across the program.
 
 It is required to have an account registered in ITinvest since SmartLab connects to ITinvest server by 
 
-means of ITinvest user credentials
+means of ITinvest user credentials.
 
 Primary goal of any Trade Robot is to listen (subscribe) to certain stocks/derivatives, receive trade 
 
 information about them (ticks, bid/ask, open/close, time bars), process them and based on the result, 
 
-issue BUY/SELL transaction to the server
+issue BUY/SELL transaction to the server.
 
 Proper GUI can be developed to work with desired stocks/derivatives (similar to the one given together
 
-with SmartCom tutorial on ITinvest website). Programs in the repository are console-based
+with SmartCom tutorial on ITinvest website). Programs in this repository are console-based.
 
 DeltaStrategy and SpreadStrategy were designed specifically for Moscow Stock Exchange derivative called 
 
