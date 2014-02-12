@@ -1,0 +1,721 @@
+
+[SmartServer_UpdateQuote message]: quote created for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[DateTime = 3/25/2013]
+[Last = 9663]
+[Volume = 14791]
+[TradingStatus = 0]
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9661]
+[BidSize = 5]
+[Ask = 9664]
+[AskSize = 178]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9661]
+[BidSize = 5]
+[Ask = 9664]
+[AskSize = 178]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9661]
+[BidSize = 5]
+[Ask = 9664]
+[AskSize = 178]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9661]
+[BidSize = 5]
+[Ask = 9664]
+[AskSize = 178]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9662]
+[BidSize = 37]
+[Ask = 9664]
+[AskSize = 148]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9662]
+[BidSize = 37]
+[Ask = 9664]
+[AskSize = 148]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9662]
+[BidSize = 27]
+[Ask = 9664]
+[AskSize = 148]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9662]
+[BidSize = 27]
+[Ask = 9664]
+[AskSize = 148]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9662]
+[BidSize = 18]
+[Ask = 9664]
+[AskSize = 148]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9662]
+[BidSize = 18]
+[Ask = 9664]
+[AskSize = 145]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[DateTime = 3/25/2013]
+[Price = 9664]
+[Volume = 3]
+[TradeNo = 712630814]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[DateTime = 3/25/2013]
+[Price = 9664]
+[Volume = 40]
+[TradeNo = 712630820]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[DateTime = 3/25/2013]
+[Price = 9664]
+[Volume = 23]
+[TradeNo = 712630821]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9662]
+[BidSize = 18]
+[Ask = 9664]
+[AskSize = 82]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9661]
+[BidSize = 42]
+[Ask = 9664]
+[AskSize = 82]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9661]
+[BidSize = 33]
+[Ask = 9664]
+[AskSize = 82]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9661]
+[BidSize = 24]
+[Ask = 9664]
+[AskSize = 82]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9661]
+[BidSize = 24]
+[Ask = 9664]
+[AskSize = 132]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[DateTime = 3/25/2013]
+[Price = 9661]
+[Volume = 1]
+[TradeNo = 712630861]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9661]
+[BidSize = 21]
+[Ask = 9664]
+[AskSize = 132]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[DateTime = 3/25/2013]
+[Price = 9661]
+[Volume = 2]
+[TradeNo = 712630862]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9661]
+[BidSize = 21]
+[Ask = 9664]
+[AskSize = 132]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9661]
+[BidSize = 21]
+[Ask = 9664]
+[AskSize = 132]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9661]
+[BidSize = 21]
+[Ask = 9664]
+[AskSize = 132]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9661]
+[BidSize = 21]
+[Ask = 9664]
+[AskSize = 182]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9661]
+[BidSize = 21]
+[Ask = 9664]
+[AskSize = 212]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9661]
+[BidSize = 21]
+[Ask = 9664]
+[AskSize = 212]
+
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SBRF-6.13_FT]
+[strike = 0]
+[Punkt = 1]
+[Step = 1]
+[Decimals = 0]
+[Money = 1]
+[shortname = SBRF-6.13]
+[expirydate = 6/14/2013] (80 days before expiry)
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9661]
+[BidSize = 21]
+[Ask = 9664]
+[AskSize = 212]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9661]
+[BidSize = 19]
+[Ask = 9664]
+[AskSize = 212]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9661]
+[BidSize = 21]
+[Ask = 9664]
+[AskSize = 212]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9660]
+[BidSize = 17]
+[Ask = 9661]
+[AskSize = 179]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9660]
+[BidSize = 17]
+[Ask = 9661]
+[AskSize = 179]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9660]
+[BidSize = 17]
+[Ask = 9664]
+[AskSize = 163]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9660]
+[BidSize = 17]
+[Ask = 9664]
+[AskSize = 163]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9660]
+[BidSize = 17]
+[Ask = 9664]
+[AskSize = 148]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9661]
+[BidSize = 1]
+[Ask = 9664]
+[AskSize = 148]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9661]
+[BidSize = 1]
+[Ask = 9664]
+[AskSize = 148]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9661]
+[BidSize = 11]
+[Ask = 9664]
+[AskSize = 148]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9661]
+[BidSize = 11]
+[Ask = 9663]
+[AskSize = 60]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9661]
+[BidSize = 11]
+[Ask = 9663]
+[AskSize = 60]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9661]
+[BidSize = 11]
+[Ask = 9663]
+[AskSize = 60]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9661]
+[BidSize = 11]
+[Ask = 9663]
+[AskSize = 60]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9661]
+[BidSize = 11]
+[Ask = 9663]
+[AskSize = 60]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[DateTime = 3/25/2013]
+[Price = 9661]
+[Volume = 9]
+[TradeNo = 712630917]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[DateTime = 3/25/2013]
+[Price = 9661]
+[Volume = 10]
+[TradeNo = 712630918]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[DateTime = 3/25/2013]
+[Price = 9661]
+[Volume = 2]
+[TradeNo = 712630919]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[DateTime = 3/25/2013]
+[Price = 9661]
+[Volume = 179]
+[TradeNo = 712630920]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[DateTime = 3/25/2013]
+[Price = 9663]
+[Volume = 10]
+[TradeNo = 712630921]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[DateTime = 3/25/2013]
+[Price = 9664]
+[Volume = 27]
+[TradeNo = 712630922]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[DateTime = 3/25/2013]
+[Price = 9664]
+[Volume = 22]
+[TradeNo = 712630923]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[DateTime = 3/25/2013]
+[Price = 9664]
+[Volume = 15]
+[TradeNo = 712630927]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[DateTime = 3/25/2013]
+[Price = 9664]
+[Volume = 3]
+[TradeNo = 712631033]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9661]
+[BidSize = 11]
+[Ask = 9663]
+[AskSize = 50]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9662]
+[BidSize = 6]
+[Ask = 9663]
+[AskSize = 50]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9662]
+[BidSize = 6]
+[Ask = 9664]
+[AskSize = 120]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9663]
+[BidSize = 15]
+[Ask = 9664]
+[AskSize = 109]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9663]
+[BidSize = 15]
+[Ask = 9664]
+[AskSize = 109]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9663]
+[BidSize = 15]
+[Ask = 9664]
+[AskSize = 109]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[DateTime = 3/25/2013]
+[Price = 9664]
+[Volume = 6]
+[TradeNo = 712631039]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9663]
+[BidSize = 15]
+[Ask = 9664]
+[AskSize = 109]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9663]
+[BidSize = 17]
+[Ask = 9664]
+[AskSize = 109]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9663]
+[BidSize = 17]
+[Ask = 9664]
+[AskSize = 109]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[DateTime = 3/25/2013]
+[Price = 9664]
+[Volume = 1]
+[TradeNo = 712631152]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9663]
+[BidSize = 17]
+[Ask = 9664]
+[AskSize = 109]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9663]
+[BidSize = 17]
+[Ask = 9664]
+[AskSize = 108]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9663]
+[BidSize = 17]
+[Ask = 9664]
+[AskSize = 108]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9663]
+[BidSize = 53]
+[Ask = 9664]
+[AskSize = 158]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9663]
+[BidSize = 17]
+[Ask = 9664]
+[AskSize = 158]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9663]
+[BidSize = 17]
+[Ask = 9664]
+[AskSize = 158]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[DateTime = 3/25/2013]
+[Price = 9664]
+[Volume = 3]
+[TradeNo = 712631240]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[DateTime = 3/25/2013]
+[Price = 9664]
+[Volume = 1]
+[TradeNo = 712631241]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[DateTime = 3/25/2013]
+[Price = 9664]
+[Volume = 1]
+[TradeNo = 712631242]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[DateTime = 3/25/2013]
+[Price = 9664]
+[Volume = 3]
+[TradeNo = 712631243]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[DateTime = 3/25/2013]
+[Price = 9664]
+[Volume = 1]
+[TradeNo = 712631244]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9663]
+[BidSize = 17]
+[Ask = 9664]
+[AskSize = 105]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[DateTime = 3/25/2013]
+[Price = 9664]
+[Volume = 9]
+[TradeNo = 712631245]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[DateTime = 3/25/2013]
+[Price = 9664]
+[Volume = 9]
+[TradeNo = 712631246]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[DateTime = 3/25/2013]
+[Price = 9664]
+[Volume = 9]
+[TradeNo = 712631248]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[DateTime = 3/25/2013]
+[Price = 9664]
+[Volume = 9]
+[TradeNo = 712631250]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[DateTime = 3/25/2013]
+[Price = 9664]
+[Volume = 6]
+[TradeNo = 712631260]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[DateTime = 3/25/2013]
+[Price = 9664]
+[Volume = 2]
+[TradeNo = 712631269]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[DateTime = 3/25/2013]
+[Price = 9664]
+[Volume = 5]
+[TradeNo = 712631283]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[DateTime = 3/25/2013]
+[Price = 9664]
+[Volume = 50]
+[TradeNo = 712631284]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[DateTime = 3/25/2013]
+[Price = 9664]
+[Volume = 9]
+[TradeNo = 712631285]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[DateTime = 3/25/2013]
+[Price = 9664]
+[Volume = 4]
+[TradeNo = 712631291]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9663]
+[BidSize = 17]
+[Ask = 9664]
+[AskSize = 41]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9663]
+[BidSize = 17]
+[Ask = 9664]
+[AskSize = 37]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9663]
+[BidSize = 17]
+[Ask = 9664]
+[AskSize = 37]
+

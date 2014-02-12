@@ -1,0 +1,10 @@
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SILM]
+[strike = 0]
+[Punkt = 1]
+[Step = 3]
+[Decimals = 3]
+[Money = 0.333333333333333]
+[shortname = СилМашины]
+[expirydate = 12/30/1899] (-1 days before expiry)

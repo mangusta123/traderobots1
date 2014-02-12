@@ -1,0 +1,46 @@
+
+[SmartServer_UpdateQuote message]: quote created for RTSS-6.13_FT
+[Symbol = RTSS-6.13_FT]
+[DateTime = 3/25/2013]
+[Last = 9607]
+[Volume = 274]
+[TradingStatus = 0]
+
+[SmartServer_UpdateQuote message]: quote created for RTSS-6.13_FT
+[Symbol = RTSS-6.13_FT]
+[DateTime = 3/25/2013]
+[Last = 9607]
+[Volume = 274]
+[TradingStatus = 0]
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for RTSS-6.13_FT
+[Symbol = RTSS-6.13_FT]
+[Bid = 9583]
+[BidSize = 1]
+[Ask = 9602]
+[AskSize = 7]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for RTSS-6.13_FT
+[Symbol = RTSS-6.13_FT]
+[Bid = 9582]
+[BidSize = 50]
+[Ask = 9602]
+[AskSize = 12]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for RTSS-6.13_FT
+[Symbol = RTSS-6.13_FT]
+[Bid = 9582]
+[BidSize = 50]
+[Ask = 9602]
+[AskSize = 12]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for RTSS-6.13_FT
+[Symbol = RTSS-6.13_FT]
+[Bid = 9582]
+[BidSize = 50]
+[Ask = 9602]
+[AskSize = 13]
+

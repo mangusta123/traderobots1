@@ -1,0 +1,10 @@
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SILV-3.10_FT]
+[strike = 0]
+[Punkt = 29.5195]
+[Step = 0.01]
+[Decimals = 2]
+[Money = 2951.95]
+[shortname = SILV-3.10]
+[expirydate = 3/12/2010] (0 days before expiry)

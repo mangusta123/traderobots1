@@ -1,0 +1,10 @@
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTSVX-12.11_FT]
+[strike = 0]
+[Punkt = 31,2409]
+[Step = 0.05]
+[Decimals = 2]
+[Money = 624,818]
+[shortname = RTSVX-12.11]
+[expirydate = 07.12.2011] (0 days before expiry)

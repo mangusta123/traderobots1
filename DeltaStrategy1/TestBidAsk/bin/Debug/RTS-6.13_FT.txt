@@ -1,0 +1,46 @@
+
+Portfolio => portfolioName:BP8602-RF-02 portfolioExch:RTS_FUT StPortfolioStatus_Broker:True
+
+[20:30:14] Portfolio:BP8602-RF-02 Cash:157269,16 Comission:0 Saldo:354066,29 Leverage:1
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-6.13_FT]
+[strike = 0]
+[Punkt = 6,4905]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,64905]
+[shortname = RTS-6.13]
+[expirydate = 17.06.2013] (5 days before expiry)
+
+[20:31:11] Portfolio:BP8602-RF-02 Cash:157269,16 Comission:0 Saldo:354066,29 Leverage:1
+
+[20:32:18] Portfolio:BP8602-RF-02 Cash:157269,16 Comission:0 Saldo:354066,29 Leverage:1
+
+[20:33:29] Portfolio:BP8602-RF-02 Cash:157269,16 Comission:0 Saldo:354066,29 Leverage:1
+
+[20:34:35] Portfolio:BP8602-RF-02 Cash:157269,16 Comission:0 Saldo:354066,29 Leverage:1
+
+[20:35:10] Portfolio:BP8602-RF-02 Cash:157269,16 Comission:0 Saldo:354066,29 Leverage:1
+
+[20:36:19] Portfolio:BP8602-RF-02 Cash:157269,16 Comission:0 Saldo:354066,29 Leverage:1
+
+[20:37:23] Portfolio:BP8602-RF-02 Cash:157269,16 Comission:0 Saldo:354066,29 Leverage:1
+
+[20:38:30] Portfolio:BP8602-RF-02 Cash:157269,16 Comission:0 Saldo:354066,29 Leverage:1
+
+[20:39:34] Portfolio:BP8602-RF-02 Cash:157269,16 Comission:0 Saldo:354066,29 Leverage:1
+
+[20:40:07] Portfolio:BP8602-RF-02 Cash:157269,16 Comission:0 Saldo:354066,29 Leverage:1
+
+[20:41:12] Portfolio:BP8602-RF-02 Cash:157269,16 Comission:0 Saldo:354066,29 Leverage:1
+
+[20:42:17] Portfolio:BP8602-RF-02 Cash:157269,16 Comission:0 Saldo:354066,29 Leverage:1
+
+[20:44:25] Portfolio:BP8602-RF-02 Cash:157269,16 Comission:0 Saldo:354066,29 Leverage:1
+
+[20:45:29] Portfolio:BP8602-RF-02 Cash:157269,16 Comission:0 Saldo:354066,29 Leverage:1
+
+[20:46:34] Portfolio:BP8602-RF-02 Cash:157269,16 Comission:0 Saldo:354066,29 Leverage:1
+
+[20:47:07] Portfolio:BP8602-RF-02 Cash:157269,16 Comission:0 Saldo:354066,29 Leverage:1

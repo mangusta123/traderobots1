@@ -1,0 +1,10 @@
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SBRF-12.13_FT]
+[strike = 0]
+[Punkt = 1]
+[Step = 1]
+[Decimals = 0]
+[Money = 1]
+[shortname = SBRF-12.13]
+[expirydate = 13.12.2013] (196 days before expiry)

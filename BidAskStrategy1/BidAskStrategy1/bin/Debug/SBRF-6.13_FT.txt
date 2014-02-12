@@ -1,0 +1,343 @@
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SBRF-6.13_FT]
+[strike = 0]
+[Punkt = 1]
+[Step = 1]
+[Decimals = 0]
+[Money = 1]
+[shortname = SBRF-6.13]
+[expirydate = 14.06.2013] (14 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SBRF-6.13_FT]
+[strike = 0]
+[Punkt = 1]
+[Step = 1]
+[Decimals = 0]
+[Money = 1]
+[shortname = SBRF-6.13]
+[expirydate = 14.06.2013] (14 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SBRF-6.13_FT]
+[strike = 0]
+[Punkt = 1]
+[Step = 1]
+[Decimals = 0]
+[Money = 1]
+[shortname = SBRF-6.13]
+[expirydate = 14.06.2013] (14 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SBRF-6.13_FT]
+[strike = 0]
+[Punkt = 1]
+[Step = 1]
+[Decimals = 0]
+[Money = 1]
+[shortname = SBRF-6.13]
+[expirydate = 14.06.2013] (14 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SBRF-6.13_FT]
+[strike = 0]
+[Punkt = 1]
+[Step = 1]
+[Decimals = 0]
+[Money = 1]
+[shortname = SBRF-6.13]
+[expirydate = 14.06.2013] (14 days before expiry)
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9964]
+[BidSize = 21]
+[Ask = 9965]
+[AskSize = 727]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9964]
+[BidSize = 21]
+[Ask = 9965]
+[AskSize = 728]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9964]
+[BidSize = 21]
+[Ask = 9965]
+[AskSize = 728]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9964]
+[BidSize = 26]
+[Ask = 9965]
+[AskSize = 728]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[ServerTime = 17:30:22]
+[LocalTime = 18:31:30]
+[Price = 9965]
+[Volume = 6]
+[TradeNo = 745302979]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[ServerTime = 17:30:22]
+[LocalTime = 18:31:30]
+[Price = 9965]
+[Volume = 175]
+[TradeNo = 745302993]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[ServerTime = 17:30:22]
+[LocalTime = 18:31:30]
+[Price = 9965]
+[Volume = 20]
+[TradeNo = 745303002]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[ServerTime = 17:30:22]
+[LocalTime = 18:31:30]
+[Price = 9965]
+[Volume = 127]
+[TradeNo = 745303003]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[ServerTime = 17:30:22]
+[LocalTime = 18:31:30]
+[Price = 9965]
+[Volume = 46]
+[TradeNo = 745303004]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[ServerTime = 17:30:22]
+[LocalTime = 18:31:30]
+[Price = 9965]
+[Volume = 2]
+[TradeNo = 745303007]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[ServerTime = 17:30:22]
+[LocalTime = 18:31:30]
+[Price = 9965]
+[Volume = 2]
+[TradeNo = 745303008]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[ServerTime = 17:30:22]
+[LocalTime = 18:31:30]
+[Price = 9965]
+[Volume = 90]
+[TradeNo = 745303025]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[ServerTime = 17:30:22]
+[LocalTime = 18:31:30]
+[Price = 9965]
+[Volume = 5]
+[TradeNo = 745303027]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9964]
+[BidSize = 26]
+[Ask = 9965]
+[AskSize = 255]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[ServerTime = 17:30:22]
+[LocalTime = 18:31:31]
+[Price = 9965]
+[Volume = 1]
+[TradeNo = 745303056]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9964]
+[BidSize = 26]
+[Ask = 9965]
+[AskSize = 254]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[ServerTime = 17:30:23]
+[LocalTime = 18:31:31]
+[Price = 9965]
+[Volume = 12]
+[TradeNo = 745303107]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[ServerTime = 17:30:23]
+[LocalTime = 18:31:31]
+[Price = 9965]
+[Volume = 6]
+[TradeNo = 745303117]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9964]
+[BidSize = 26]
+[Ask = 9965]
+[AskSize = 230]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9964]
+[BidSize = 20]
+[Ask = 9965]
+[AskSize = 218]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[ServerTime = 17:30:23]
+[LocalTime = 18:31:32]
+[Price = 9965]
+[Volume = 3]
+[TradeNo = 745303130]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[ServerTime = 17:30:23]
+[LocalTime = 18:31:32]
+[Price = 9965]
+[Volume = 1]
+[TradeNo = 745303135]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[ServerTime = 17:30:23]
+[LocalTime = 18:31:32]
+[Price = 9965]
+[Volume = 2]
+[TradeNo = 745303140]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[ServerTime = 17:30:23]
+[LocalTime = 18:31:32]
+[Price = 9965]
+[Volume = 6]
+[TradeNo = 745303158]
+
+
+[SmartServer_AddTick message]: Tick updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[ServerTime = 17:30:23]
+[LocalTime = 18:31:32]
+[Price = 9965]
+[Volume = 6]
+[TradeNo = 745303178]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9964]
+[BidSize = 20]
+[Ask = 9965]
+[AskSize = 218]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBRF-6.13_FT
+[Symbol = SBRF-6.13_FT]
+[Bid = 9964]
+[BidSize = 20]
+[Ask = 9965]
+[AskSize = 143]
+
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SBRF-6.13_FT]
+[strike = 0]
+[Punkt = 1]
+[Step = 1]
+[Decimals = 0]
+[Money = 1]
+[shortname = SBRF-6.13]
+[expirydate = 14.06.2013] (14 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SBRF-6.13_FT]
+[strike = 0]
+[Punkt = 1]
+[Step = 1]
+[Decimals = 0]
+[Money = 1]
+[shortname = SBRF-6.13]
+[expirydate = 14.06.2013] (13 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SBRF-6.13_FT]
+[strike = 0]
+[Punkt = 1]
+[Step = 1]
+[Decimals = 0]
+[Money = 1]
+[shortname = SBRF-6.13]
+[expirydate = 14.06.2013] (13 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SBRF-6.13_FT]
+[strike = 0]
+[Punkt = 1]
+[Step = 1]
+[Decimals = 0]
+[Money = 1]
+[shortname = SBRF-6.13]
+[expirydate = 14.06.2013] (13 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SBRF-6.13_FT]
+[strike = 0]
+[Punkt = 1]
+[Step = 1]
+[Decimals = 0]
+[Money = 1]
+[shortname = SBRF-6.13]
+[expirydate = 14.06.2013] (13 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SBRF-6.13_FT]
+[strike = 0]
+[Punkt = 1]
+[Step = 1]
+[Decimals = 0]
+[Money = 1]
+[shortname = SBRF-6.13]
+[expirydate = 14.06.2013] (13 days before expiry)

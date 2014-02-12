@@ -1,0 +1,10 @@
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SILV]
+[strike = 0]
+[Punkt = 1]
+[Step = 0]
+[Decimals = 0]
+[Money = Infinity]
+[shortname = Сильвинит]
+[expirydate = 12/30/1899] (-1 days before expiry)

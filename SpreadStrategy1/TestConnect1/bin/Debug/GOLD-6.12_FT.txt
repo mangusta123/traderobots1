@@ -1,0 +1,17 @@
+
+[SmartServer_UpdateQuote message]: quote created for GOLD-6.12_FT
+[Symbol = GOLD-6.12_FT]
+[DateTime = 6/15/2012]
+[Last = 1622.4]
+[Volume = 24070]
+[TradingStatus = 1]
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = GOLD-6.12_FT]
+[strike = 0]
+[Punkt = 3.24673]
+[Step = 0.1]
+[Decimals = 1]
+[Money = 32.4673]
+[shortname = GOLD-6.12]
+[expirydate = 6/15/2012] (0 days before expiry)

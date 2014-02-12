@@ -1,0 +1,216 @@
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SBER]
+[strike = 0]
+[Punkt = 1]
+[Step = 2]
+[Decimals = 2]
+[Money = 0,5]
+[shortname = Сбербанк]
+[expirydate = 30.12.1899] (-1 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SBER]
+[strike = 0]
+[Punkt = 1]
+[Step = 2]
+[Decimals = 2]
+[Money = 0,5]
+[shortname = Сбербанк]
+[expirydate = 30.12.1899] (-1 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SBER]
+[strike = 0]
+[Punkt = 1]
+[Step = 2]
+[Decimals = 2]
+[Money = 0,5]
+[shortname = Сбербанк]
+[expirydate = 30.12.1899] (-1 days before expiry)
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBER
+[Symbol = SBER]
+[Bid = 99,23]
+[BidSize = 32]
+[Ask = 99,26]
+[AskSize = 100]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBER
+[Symbol = SBER]
+[Bid = 99,23]
+[BidSize = 382]
+[Ask = 99,26]
+[AskSize = 100]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBER
+[Symbol = SBER]
+[Bid = 99,23]
+[BidSize = 52]
+[Ask = 99,26]
+[AskSize = 100]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBER
+[Symbol = SBER]
+[Bid = 99,24]
+[BidSize = 5]
+[Ask = 99,26]
+[AskSize = 100]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBER
+[Symbol = SBER]
+[Bid = 99,23]
+[BidSize = 402]
+[Ask = 99,25]
+[AskSize = 50]
+
+
+[SmartServer_AddTick message]: Tick updated for SBER
+[Symbol = SBER]
+[ServerTime = 17:29:58]
+[LocalTime = 18:31:07]
+[Price = 99,25]
+[Volume = 300]
+[TradeNo = 2156645390]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBER
+[Symbol = SBER]
+[Bid = 99,23]
+[BidSize = 402]
+[Ask = 99,25]
+[AskSize = 20]
+
+
+[SmartServer_AddTick message]: Tick updated for SBER
+[Symbol = SBER]
+[ServerTime = 17:29:59]
+[LocalTime = 18:31:07]
+[Price = 99,23]
+[Volume = 320]
+[TradeNo = 2156645410]
+
+
+[SmartServer_AddTick message]: Tick updated for SBER
+[Symbol = SBER]
+[ServerTime = 17:29:59]
+[LocalTime = 18:31:07]
+[Price = 99,23]
+[Volume = 200]
+[TradeNo = 2156645411]
+
+
+[SmartServer_AddTick message]: Tick updated for SBER
+[Symbol = SBER]
+[ServerTime = 17:29:59]
+[LocalTime = 18:31:07]
+[Price = 99,23]
+[Volume = 480]
+[TradeNo = 2156645412]
+
+
+[SmartServer_AddTick message]: Tick updated for SBER
+[Symbol = SBER]
+[ServerTime = 17:29:59]
+[LocalTime = 18:31:08]
+[Price = 99,25]
+[Volume = 200]
+[TradeNo = 2156645413]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBER
+[Symbol = SBER]
+[Bid = 99,25]
+[BidSize = 1980]
+[Ask = 99,26]
+[AskSize = 100]
+
+
+[SmartServer_AddTick message]: Tick updated for SBER
+[Symbol = SBER]
+[ServerTime = 17:30:00]
+[LocalTime = 18:31:08]
+[Price = 99,26]
+[Volume = 300]
+[TradeNo = 2156645432]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBER
+[Symbol = SBER]
+[Bid = 99,25]
+[BidSize = 2330]
+[Ask = 99,26]
+[AskSize = 70]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for SBER
+[Symbol = SBER]
+[Bid = 99,25]
+[BidSize = 2330]
+[Ask = 99,26]
+[AskSize = 70]
+
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SBER]
+[strike = 0]
+[Punkt = 1]
+[Step = 2]
+[Decimals = 2]
+[Money = 0,5]
+[shortname = Сбербанк]
+[expirydate = 30.12.1899] (-1 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SBER]
+[strike = 0]
+[Punkt = 1]
+[Step = 2]
+[Decimals = 2]
+[Money = 0,5]
+[shortname = Сбербанк]
+[expirydate = 30.12.1899] (-1 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SBER]
+[strike = 0]
+[Punkt = 1]
+[Step = 2]
+[Decimals = 2]
+[Money = 0,5]
+[shortname = Сбербанк]
+[expirydate = 30.12.1899] (-1 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SBER]
+[strike = 0]
+[Punkt = 1]
+[Step = 2]
+[Decimals = 2]
+[Money = 0,5]
+[shortname = Сбербанк]
+[expirydate = 30.12.1899] (-1 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SBER]
+[strike = 0]
+[Punkt = 1]
+[Step = 2]
+[Decimals = 2]
+[Money = 0,5]
+[shortname = Сбербанк]
+[expirydate = 30.12.1899] (-1 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SBER]
+[strike = 0]
+[Punkt = 1]
+[Step = 2]
+[Decimals = 2]
+[Money = 0,5]
+[shortname = Сбербанк]
+[expirydate = 30.12.1899] (-1 days before expiry)

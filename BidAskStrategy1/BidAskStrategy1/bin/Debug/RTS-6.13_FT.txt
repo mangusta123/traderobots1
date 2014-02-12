@@ -1,0 +1,2 @@
+
+Portfolio => portfolioName:BP8602-RF-02 portfolioExch:RTS_FUT StPortfolioStatus_Broker:True

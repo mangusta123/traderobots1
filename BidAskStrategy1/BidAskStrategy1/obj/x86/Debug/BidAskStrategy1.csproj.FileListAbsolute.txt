@@ -1,0 +1,8 @@
+C:\Documents and Settings\Fariz\my documents\visual studio 2010\Projects\BidAskStrategy1\BidAskStrategy1\obj\x86\Debug\Interop.StClientLib.dll
+C:\Documents and Settings\Fariz\my documents\visual studio 2010\Projects\BidAskStrategy1\BidAskStrategy1\obj\x86\Debug\BidAskStrategy1.csproj.ResolveComReference.cache
+C:\Documents and Settings\Fariz\my documents\visual studio 2010\Projects\BidAskStrategy1\BidAskStrategy1\bin\Debug\BidAskStrategy1.exe
+C:\Documents and Settings\Fariz\my documents\visual studio 2010\Projects\BidAskStrategy1\BidAskStrategy1\bin\Debug\BidAskStrategy1.pdb
+C:\Documents and Settings\Fariz\my documents\visual studio 2010\Projects\BidAskStrategy1\BidAskStrategy1\bin\Debug\Interop.StClientLib.dll
+C:\Documents and Settings\Fariz\my documents\visual studio 2010\Projects\BidAskStrategy1\BidAskStrategy1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Fariz\my documents\visual studio 2010\Projects\BidAskStrategy1\BidAskStrategy1\obj\x86\Debug\BidAskStrategy1.exe
+C:\Documents and Settings\Fariz\my documents\visual studio 2010\Projects\BidAskStrategy1\BidAskStrategy1\obj\x86\Debug\BidAskStrategy1.pdb

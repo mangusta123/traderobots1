@@ -1,0 +1,16 @@
+C:\Documents and Settings\Fariz\my documents\visual studio 2010\Projects\TestBidAsk\TestBidAsk\bin\Release\TestBidAsk.exe
+C:\Documents and Settings\Fariz\my documents\visual studio 2010\Projects\TestBidAsk\TestBidAsk\bin\Release\TestBidAsk.pdb
+C:\Documents and Settings\Fariz\my documents\visual studio 2010\Projects\TestBidAsk\TestBidAsk\bin\Release\Interop.StClientLib.dll
+C:\Documents and Settings\Fariz\my documents\visual studio 2010\Projects\TestBidAsk\TestBidAsk\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Fariz\my documents\visual studio 2010\Projects\TestBidAsk\TestBidAsk\obj\x86\Release\Interop.StClientLib.dll
+C:\Documents and Settings\Fariz\my documents\visual studio 2010\Projects\TestBidAsk\TestBidAsk\obj\x86\Release\TestBidAsk.csproj.ResolveComReference.cache
+C:\Documents and Settings\Fariz\my documents\visual studio 2010\Projects\TestBidAsk\TestBidAsk\obj\x86\Release\TestBidAsk.exe
+C:\Documents and Settings\Fariz\my documents\visual studio 2010\Projects\TestBidAsk\TestBidAsk\obj\x86\Release\TestBidAsk.pdb
+C:\Documents and Settings\Fariz\My Documents\Visual Studio 2010\Projects\Delta_strategy\TestBidAsk\obj\x86\Release\Interop.StClientLib.dll
+C:\Documents and Settings\Fariz\My Documents\Visual Studio 2010\Projects\Delta_strategy\TestBidAsk\obj\x86\Release\TestBidAsk.csproj.ResolveComReference.cache
+C:\Documents and Settings\Fariz\My Documents\Visual Studio 2010\Projects\Delta_strategy\TestBidAsk\obj\x86\Release\TestBidAsk.exe
+C:\Documents and Settings\Fariz\My Documents\Visual Studio 2010\Projects\Delta_strategy\TestBidAsk\obj\x86\Release\TestBidAsk.pdb
+C:\Documents and Settings\Fariz\My Documents\Visual Studio 2010\Projects\Delta_strategy\TestBidAsk\bin\Release\TestBidAsk.exe
+C:\Documents and Settings\Fariz\My Documents\Visual Studio 2010\Projects\Delta_strategy\TestBidAsk\bin\Release\TestBidAsk.pdb
+C:\Documents and Settings\Fariz\My Documents\Visual Studio 2010\Projects\Delta_strategy\TestBidAsk\bin\Release\Interop.StClientLib.dll
+C:\Documents and Settings\Fariz\My Documents\Visual Studio 2010\Projects\Delta_strategy\TestBidAsk\obj\x86\Release\ResolveAssemblyReference.cache

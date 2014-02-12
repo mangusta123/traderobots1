@@ -1,0 +1,8 @@
+C:\Documents and Settings\Fariz\My Documents\Visual Studio 2010\Projects\TestConnect1\TestConnect1\obj\x86\Debug\Interop.StClientLib.dll
+C:\Documents and Settings\Fariz\My Documents\Visual Studio 2010\Projects\TestConnect1\TestConnect1\obj\x86\Debug\TestConnect1.csproj.ResolveComReference.cache
+C:\Documents and Settings\Fariz\My Documents\Visual Studio 2010\Projects\TestConnect1\TestConnect1\bin\Debug\TestConnect1.exe
+C:\Documents and Settings\Fariz\My Documents\Visual Studio 2010\Projects\TestConnect1\TestConnect1\bin\Debug\TestConnect1.pdb
+C:\Documents and Settings\Fariz\My Documents\Visual Studio 2010\Projects\TestConnect1\TestConnect1\bin\Debug\Interop.StClientLib.dll
+C:\Documents and Settings\Fariz\My Documents\Visual Studio 2010\Projects\TestConnect1\TestConnect1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Fariz\My Documents\Visual Studio 2010\Projects\TestConnect1\TestConnect1\obj\x86\Debug\TestConnect1.exe
+C:\Documents and Settings\Fariz\My Documents\Visual Studio 2010\Projects\TestConnect1\TestConnect1\obj\x86\Debug\TestConnect1.pdb

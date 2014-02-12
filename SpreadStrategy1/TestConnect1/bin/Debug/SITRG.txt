@@ -1,0 +1,10 @@
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SITRG]
+[strike = 0]
+[Punkt = 1]
+[Step = 0]
+[Decimals = 6]
+[Money = Infinity]
+[shortname = SITRG]
+[expirydate = 12/30/1899] (-1 days before expiry)

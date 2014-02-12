@@ -1,0 +1,610 @@
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,30648]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,630648]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (109 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,30648]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,630648]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (109 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,30648]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,630648]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (109 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,30648]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,630648]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (109 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,30648]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,630648]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (109 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,30648]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,630648]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (109 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,30648]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,630648]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (109 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,30648]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,630648]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (109 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,30648]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,630648]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (109 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,30648]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,630648]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (109 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,30648]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,630648]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (108 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,30648]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,630648]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (108 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,30648]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,630648]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (108 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,30648]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,630648]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (108 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,30648]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,630648]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (108 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,30648]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,630648]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (108 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,30648]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,630648]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (108 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,30648]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,630648]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (108 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,30648]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,630648]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (108 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,30648]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,630648]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (108 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,31732]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,631732]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (108 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,31732]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,631732]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (108 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,31732]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,631732]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (108 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,31732]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,631732]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (108 days before expiry)
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for RTS-9.13_FT
+[Symbol = RTS-9.13_FT]
+[Bid = 134650]
+[BidSize = 1]
+[Ask = 134700]
+[AskSize = 11]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for RTS-9.13_FT
+[Symbol = RTS-9.13_FT]
+[Bid = 134650]
+[BidSize = 1]
+[Ask = 134690]
+[AskSize = 11]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for RTS-9.13_FT
+[Symbol = RTS-9.13_FT]
+[Bid = 134650]
+[BidSize = 1]
+[Ask = 134690]
+[AskSize = 11]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for RTS-9.13_FT
+[Symbol = RTS-9.13_FT]
+[Bid = 134650]
+[BidSize = 1]
+[Ask = 134690]
+[AskSize = 11]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for RTS-9.13_FT
+[Symbol = RTS-9.13_FT]
+[Bid = 134670]
+[BidSize = 10]
+[Ask = 134690]
+[AskSize = 11]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for RTS-9.13_FT
+[Symbol = RTS-9.13_FT]
+[Bid = 134670]
+[BidSize = 10]
+[Ask = 134690]
+[AskSize = 11]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for RTS-9.13_FT
+[Symbol = RTS-9.13_FT]
+[Bid = 134670]
+[BidSize = 10]
+[Ask = 134690]
+[AskSize = 11]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for RTS-9.13_FT
+[Symbol = RTS-9.13_FT]
+[Bid = 134670]
+[BidSize = 10]
+[Ask = 134710]
+[AskSize = 52]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for RTS-9.13_FT
+[Symbol = RTS-9.13_FT]
+[Bid = 134670]
+[BidSize = 10]
+[Ask = 134710]
+[AskSize = 33]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for RTS-9.13_FT
+[Symbol = RTS-9.13_FT]
+[Bid = 134670]
+[BidSize = 10]
+[Ask = 134710]
+[AskSize = 33]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for RTS-9.13_FT
+[Symbol = RTS-9.13_FT]
+[Bid = 134670]
+[BidSize = 10]
+[Ask = 134710]
+[AskSize = 33]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for RTS-9.13_FT
+[Symbol = RTS-9.13_FT]
+[Bid = 134670]
+[BidSize = 10]
+[Ask = 134710]
+[AskSize = 33]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for RTS-9.13_FT
+[Symbol = RTS-9.13_FT]
+[Bid = 134670]
+[BidSize = 10]
+[Ask = 134710]
+[AskSize = 33]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for RTS-9.13_FT
+[Symbol = RTS-9.13_FT]
+[Bid = 134650]
+[BidSize = 1]
+[Ask = 134700]
+[AskSize = 14]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for RTS-9.13_FT
+[Symbol = RTS-9.13_FT]
+[Bid = 134650]
+[BidSize = 1]
+[Ask = 134700]
+[AskSize = 11]
+
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,31732]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,631732]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (108 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,31732]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,631732]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (108 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,31732]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,631732]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (108 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,31732]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,631732]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (108 days before expiry)
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for RTS-9.13_FT
+[Symbol = RTS-9.13_FT]
+[Bid = 134470]
+[BidSize = 10]
+[Ask = 134510]
+[AskSize = 11]
+
+
+[SmartServer_AddTick message]: Tick updated for RTS-9.13_FT
+[Symbol = RTS-9.13_FT]
+[ServerTime = 17:23:38]
+[LocalTime = 18:24:46]
+[Price = 134510]
+[Volume = 1]
+[TradeNo = 745293600]
+
+
+[SmartServer_AddTick message]: Tick updated for RTS-9.13_FT
+[Symbol = RTS-9.13_FT]
+[ServerTime = 17:23:38]
+[LocalTime = 18:24:46]
+[Price = 134510]
+[Volume = 2]
+[TradeNo = 745293618]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for RTS-9.13_FT
+[Symbol = RTS-9.13_FT]
+[Bid = 134470]
+[BidSize = 30]
+[Ask = 134540]
+[AskSize = 8]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for RTS-9.13_FT
+[Symbol = RTS-9.13_FT]
+[Bid = 134470]
+[BidSize = 30]
+[Ask = 134520]
+[AskSize = 3]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for RTS-9.13_FT
+[Symbol = RTS-9.13_FT]
+[Bid = 134470]
+[BidSize = 30]
+[Ask = 134520]
+[AskSize = 3]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for RTS-9.13_FT
+[Symbol = RTS-9.13_FT]
+[Bid = 134470]
+[BidSize = 20]
+[Ask = 134520]
+[AskSize = 3]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for RTS-9.13_FT
+[Symbol = RTS-9.13_FT]
+[Bid = 134470]
+[BidSize = 20]
+[Ask = 134520]
+[AskSize = 3]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for RTS-9.13_FT
+[Symbol = RTS-9.13_FT]
+[Bid = 134470]
+[BidSize = 20]
+[Ask = 134520]
+[AskSize = 3]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for RTS-9.13_FT
+[Symbol = RTS-9.13_FT]
+[Bid = 134470]
+[BidSize = 20]
+[Ask = 134520]
+[AskSize = 3]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for RTS-9.13_FT
+[Symbol = RTS-9.13_FT]
+[Bid = 134470]
+[BidSize = 30]
+[Ask = 134520]
+[AskSize = 3]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for RTS-9.13_FT
+[Symbol = RTS-9.13_FT]
+[Bid = 134470]
+[BidSize = 30]
+[Ask = 134520]
+[AskSize = 3]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for RTS-9.13_FT
+[Symbol = RTS-9.13_FT]
+[Bid = 134470]
+[BidSize = 30]
+[Ask = 134520]
+[AskSize = 3]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for RTS-9.13_FT
+[Symbol = RTS-9.13_FT]
+[Bid = 134470]
+[BidSize = 30]
+[Ask = 134520]
+[AskSize = 3]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for RTS-9.13_FT
+[Symbol = RTS-9.13_FT]
+[Bid = 134470]
+[BidSize = 30]
+[Ask = 134520]
+[AskSize = 3]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for RTS-9.13_FT
+[Symbol = RTS-9.13_FT]
+[Bid = 134470]
+[BidSize = 20]
+[Ask = 134520]
+[AskSize = 3]
+
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,31732]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,631732]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (108 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,31732]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,631732]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (108 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,31732]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,631732]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (108 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,39608]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,639608]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (107 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,39608]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,639608]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (107 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,39608]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,639608]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (107 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,39608]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,639608]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (107 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,39608]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,639608]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (107 days before expiry)

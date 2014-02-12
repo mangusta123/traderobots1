@@ -1,0 +1,10 @@
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTSBP]
+[strike = 0]
+[Punkt = 1]
+[Step = 5]
+[Decimals = 5]
+[Money = 0,2]
+[shortname = РостовЭС-п]
+[expirydate = 30.12.1899] (-1 days before expiry)

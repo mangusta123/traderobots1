@@ -1,0 +1,304 @@
+
+[17:58:19]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:19]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:19]: Buy Spread [SBRF-6.13/SBER] = 25    Sell Spread [SBRF-6.13/SBER] = 22
+
+[17:58:20]: Buy Spread [SBRF-6.13/SBER] = 25    Sell Spread [SBRF-6.13/SBER] = 22
+
+[17:58:20]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:20]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:20]: Buy Spread [RTS-6.13/RTS-9.13] = -660    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:20]: Buy Spread [SBRF-6.13/SBER] = 26    Sell Spread [SBRF-6.13/SBER] = 23
+
+[17:58:20]: Buy Spread [RTS-6.13/RTS-9.13] = -660    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:20]: Buy Spread [RTS-6.13/RTS-9.13] = -670    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:20]: Buy Spread [SBRF-6.13/SBER] = 28    Sell Spread [SBRF-6.13/SBER] = 25
+
+[17:58:20]: Buy Spread [RTS-6.13/RTS-9.13] = -650    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:20]: Buy Spread [SBRF-6.13/SBER] = 28    Sell Spread [SBRF-6.13/SBER] = 25
+
+[17:58:21]: Buy Spread [SBRF-6.13/SBER] = 27    Sell Spread [SBRF-6.13/SBER] = 24
+
+[17:58:21]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:21]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:29]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:29]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:29]: Buy Spread [SBRF-6.13/SBER] = 27    Sell Spread [SBRF-6.13/SBER] = 24
+
+[17:58:29]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:29]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:29]: Buy Spread [SBRF-6.13/SBER] = 27    Sell Spread [SBRF-6.13/SBER] = 24
+
+[17:58:29]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:30]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:30]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:30]: Buy Spread [SBRF-6.13/SBER] = 27    Sell Spread [SBRF-6.13/SBER] = 24
+
+[17:58:30]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:30]: Buy Spread [SBRF-6.13/SBER] = 27    Sell Spread [SBRF-6.13/SBER] = 24
+
+[17:58:30]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:30]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:30]: Buy Spread [SBRF-6.13/SBER] = 27    Sell Spread [SBRF-6.13/SBER] = 24
+
+[17:58:30]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:31]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:31]: Buy Spread [SBRF-6.13/SBER] = 26    Sell Spread [SBRF-6.13/SBER] = 22
+
+[17:58:31]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:31]: Buy Spread [SBRF-6.13/SBER] = 26    Sell Spread [SBRF-6.13/SBER] = 22
+
+[17:58:31]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:31]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:31]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:31]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:31]: Buy Spread [SBRF-6.13/SBER] = 26    Sell Spread [SBRF-6.13/SBER] = 22
+
+[17:58:31]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:32]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:32]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:32]: Buy Spread [SBRF-6.13/SBER] = 26    Sell Spread [SBRF-6.13/SBER] = 22
+
+[17:58:32]: Buy Spread [SBRF-6.13/SBER] = 26    Sell Spread [SBRF-6.13/SBER] = 22
+
+[17:58:32]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:32]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:32]: Buy Spread [SBRF-6.13/SBER] = 26    Sell Spread [SBRF-6.13/SBER] = 22
+
+[17:58:32]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:32]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:32]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -680
+
+[17:58:32]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:32]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:32]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:32]: Buy Spread [SBRF-6.13/SBER] = 26    Sell Spread [SBRF-6.13/SBER] = 22
+
+[17:58:33]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:33]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:33]: Buy Spread [SBRF-6.13/SBER] = 26    Sell Spread [SBRF-6.13/SBER] = 22
+
+[17:58:33]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:33]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:33]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:33]: Buy Spread [SBRF-6.13/SBER] = 26    Sell Spread [SBRF-6.13/SBER] = 22
+
+[17:58:33]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:33]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:33]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:33]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:33]: Buy Spread [SBRF-6.13/SBER] = 26    Sell Spread [SBRF-6.13/SBER] = 22
+
+[17:58:34]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:34]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:34]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:34]: Buy Spread [SBRF-6.13/SBER] = 26    Sell Spread [SBRF-6.13/SBER] = 22
+
+[17:58:34]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:34]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:34]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:34]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:34]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:34]: Buy Spread [SBRF-6.13/SBER] = 26    Sell Spread [SBRF-6.13/SBER] = 22
+
+[17:58:34]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:34]: Buy Spread [SBRF-6.13/SBER] = 26    Sell Spread [SBRF-6.13/SBER] = 22
+
+[17:58:34]: Buy Spread [SBRF-6.13/SBER] = 27    Sell Spread [SBRF-6.13/SBER] = 22
+
+[17:58:34]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:35]: Buy Spread [SBRF-6.13/SBER] = 27    Sell Spread [SBRF-6.13/SBER] = 22
+
+[17:58:35]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:35]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:35]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:35]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:35]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:35]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:35]: Buy Spread [SBRF-6.13/SBER] = 27    Sell Spread [SBRF-6.13/SBER] = 22
+
+[17:58:35]: Buy Spread [SBRF-6.13/SBER] = 27    Sell Spread [SBRF-6.13/SBER] = 23
+
+[17:58:35]: Buy Spread [RTS-6.13/RTS-9.13] = -630    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:36]: Buy Spread [SBRF-6.13/SBER] = 27    Sell Spread [SBRF-6.13/SBER] = 24
+
+[17:58:36]: Buy Spread [RTS-6.13/RTS-9.13] = -650    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:36]: Buy Spread [RTS-6.13/RTS-9.13] = -650    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:36]: Buy Spread [SBRF-6.13/SBER] = 28    Sell Spread [SBRF-6.13/SBER] = 25
+
+[17:58:36]: Buy Spread [RTS-6.13/RTS-9.13] = -650    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:36]: Buy Spread [RTS-6.13/RTS-9.13] = -650    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:36]: Buy Spread [SBRF-6.13/SBER] = 28    Sell Spread [SBRF-6.13/SBER] = 25
+
+[17:58:36]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:36]: Buy Spread [RTS-6.13/RTS-9.13] = -650    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:37]: Buy Spread [SBRF-6.13/SBER] = 27    Sell Spread [SBRF-6.13/SBER] = 24
+
+[17:58:37]: Buy Spread [RTS-6.13/RTS-9.13] = -650    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:37]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:37]: Buy Spread [SBRF-6.13/SBER] = 27    Sell Spread [SBRF-6.13/SBER] = 24
+
+[17:58:37]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:37]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:37]: Buy Spread [SBRF-6.13/SBER] = 27    Sell Spread [SBRF-6.13/SBER] = 24
+
+[17:58:37]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:38]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:38]: Buy Spread [SBRF-6.13/SBER] = 28    Sell Spread [SBRF-6.13/SBER] = 24
+
+[17:58:38]: Buy Spread [RTS-6.13/RTS-9.13] = -650    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:38]: Buy Spread [RTS-6.13/RTS-9.13] = -650    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:38]: Buy Spread [SBRF-6.13/SBER] = 28    Sell Spread [SBRF-6.13/SBER] = 24
+
+[17:58:38]: Buy Spread [RTS-6.13/RTS-9.13] = -650    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:38]: Buy Spread [RTS-6.13/RTS-9.13] = -650    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:38]: Buy Spread [SBRF-6.13/SBER] = 28    Sell Spread [SBRF-6.13/SBER] = 23
+
+[17:58:39]: Buy Spread [SBRF-6.13/SBER] = 28    Sell Spread [SBRF-6.13/SBER] = 23
+
+[17:58:39]: Buy Spread [RTS-6.13/RTS-9.13] = -650    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:39]: Buy Spread [RTS-6.13/RTS-9.13] = -650    Sell Spread [RTS-6.13/RTS-9.13] = -710
+
+[17:58:39]: Buy Spread [SBRF-6.13/SBER] = 28    Sell Spread [SBRF-6.13/SBER] = 23
+
+[17:58:39]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -710
+
+[17:58:39]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -710
+
+[17:58:39]: Buy Spread [SBRF-6.13/SBER] = 28    Sell Spread [SBRF-6.13/SBER] = 23
+
+[17:58:40]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:40]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:40]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:40]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:40]: Buy Spread [SBRF-6.13/SBER] = 28    Sell Spread [SBRF-6.13/SBER] = 23
+
+[17:58:40]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:40]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:40]: Buy Spread [SBRF-6.13/SBER] = 28    Sell Spread [SBRF-6.13/SBER] = 23
+
+[17:58:40]: Buy Spread [SBRF-6.13/SBER] = 28    Sell Spread [SBRF-6.13/SBER] = 23
+
+[17:58:41]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:41]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:41]: Buy Spread [SBRF-6.13/SBER] = 28    Sell Spread [SBRF-6.13/SBER] = 23
+
+[17:58:41]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:41]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:41]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:41]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:41]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -690
+
+[17:58:42]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:42]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:42]: Buy Spread [SBRF-6.13/SBER] = 28    Sell Spread [SBRF-6.13/SBER] = 23
+
+[17:58:42]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:42]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:42]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:42]: Buy Spread [SBRF-6.13/SBER] = 27    Sell Spread [SBRF-6.13/SBER] = 23
+
+[17:58:42]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:42]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:43]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -700
+
+[17:58:43]: Buy Spread [RTS-6.13/RTS-9.13] = -640    Sell Spread [RTS-6.13/RTS-9.13] = -700

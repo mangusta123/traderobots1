@@ -1,0 +1,7 @@
+
+[SmartServer_UpdateQuote message]: quote created for RTSc-6.13_FT
+[Symbol = RTSc-6.13_FT]
+[DateTime = 1/1/2000]
+[Last = 385.4]
+[Volume = 0]
+[TradingStatus = 1]

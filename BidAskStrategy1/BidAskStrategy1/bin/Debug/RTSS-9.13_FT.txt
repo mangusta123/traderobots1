@@ -1,0 +1,20 @@
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTSS-9.13_FT]
+[strike = 0]
+[Punkt = 10]
+[Step = 1]
+[Decimals = 0]
+[Money = 10]
+[shortname = RTSS-9.13]
+[expirydate = 16.09.2013] (109 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTSS-9.13_FT]
+[strike = 0]
+[Punkt = 10]
+[Step = 1]
+[Decimals = 0]
+[Money = 10]
+[shortname = RTSS-9.13]
+[expirydate = 16.09.2013] (109 days before expiry)

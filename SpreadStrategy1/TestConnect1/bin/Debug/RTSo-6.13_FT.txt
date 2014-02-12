@@ -1,0 +1,7 @@
+
+[SmartServer_UpdateQuote message]: quote created for RTSo-6.13_FT
+[Symbol = RTSo-6.13_FT]
+[DateTime = 1/1/2000]
+[Last = 202.5]
+[Volume = 0]
+[TradingStatus = 1]

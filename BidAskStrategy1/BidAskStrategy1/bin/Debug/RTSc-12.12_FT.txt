@@ -1,0 +1,20 @@
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTSc-12.12_FT]
+[strike = 0]
+[Punkt = 6,18316]
+[Step = 0.1]
+[Decimals = 1]
+[Money = 61,8316]
+[shortname = RTSc-12.12]
+[expirydate = 17.12.2012] (0 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTSc-12.12_FT]
+[strike = 0]
+[Punkt = 6,18316]
+[Step = 0.1]
+[Decimals = 1]
+[Money = 61,8316]
+[shortname = RTSc-12.12]
+[expirydate = 17.12.2012] (0 days before expiry)

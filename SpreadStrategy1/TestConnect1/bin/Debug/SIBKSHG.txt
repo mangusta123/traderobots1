@@ -1,0 +1,10 @@
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SIBKSHG]
+[strike = 0]
+[Punkt = 1]
+[Step = 0]
+[Decimals = 6]
+[Money = Infinity]
+[shortname = SIBKSHG]
+[expirydate = 12/30/1899] (-1 days before expiry)

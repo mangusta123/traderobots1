@@ -1,0 +1,20 @@
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.14_FT]
+[strike = 0]
+[Punkt = 6,30648]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,630648]
+[shortname = RTS-9.14]
+[expirydate = 15.09.2014] (473 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.14_FT]
+[strike = 0]
+[Punkt = 6,30648]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,630648]
+[shortname = RTS-9.14]
+[expirydate = 15.09.2014] (473 days before expiry)

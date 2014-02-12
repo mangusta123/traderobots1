@@ -1,0 +1,20 @@
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTSVX-8.11_FT]
+[strike = 0]
+[Punkt = 28,2984]
+[Step = 0.05]
+[Decimals = 2]
+[Money = 565,968]
+[shortname = RTSVX-8.11]
+[expirydate = 05.08.2011] (0 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTSVX-8.11_FT]
+[strike = 0]
+[Punkt = 28,2984]
+[Step = 0.05]
+[Decimals = 2]
+[Money = 565,968]
+[shortname = RTSVX-8.11]
+[expirydate = 05.08.2011] (0 days before expiry)

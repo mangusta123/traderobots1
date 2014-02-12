@@ -1,0 +1,10 @@
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTSBG]
+[strike = 0]
+[Punkt = 1]
+[Step = 0]
+[Decimals = 4]
+[Money = бесконечность]
+[shortname = RTSBG]
+[expirydate = 30.12.1899] (-1 days before expiry)

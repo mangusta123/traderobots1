@@ -1,0 +1,10 @@
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTSS-9.12_FT]
+[strike = 0]
+[Punkt = 10]
+[Step = 1]
+[Decimals = 0]
+[Money = 10]
+[shortname = RTSS-9.12]
+[expirydate = 17.09.2012] (0 days before expiry)

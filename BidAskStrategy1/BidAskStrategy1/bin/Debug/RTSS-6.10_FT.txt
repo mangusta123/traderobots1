@@ -1,0 +1,10 @@
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTSS-6.10_FT]
+[strike = 0]
+[Punkt = 5]
+[Step = 0.5]
+[Decimals = 1]
+[Money = 10]
+[shortname = RTSS-6.10]
+[expirydate = 11.06.2010] (0 days before expiry)

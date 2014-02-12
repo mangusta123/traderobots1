@@ -1,0 +1,513 @@
+
+[SmartServer_UpdateQuote message]: quote created for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[DateTime = 3/25/2013]
+[Last = 107.97]
+[Volume = 4064]
+[TradingStatus = 0]
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 7]
+[Ask = 107.97]
+[AskSize = 20]
+
+
+[SmartServer_AddTick message]: Tick updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[DateTime = 3/25/2013]
+[Price = 107.97]
+[Volume = 20]
+[TradeNo = 712627707]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.96]
+[BidSize = 2]
+[Ask = 107.99]
+[AskSize = 361]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.96]
+[BidSize = 2]
+[Ask = 107.98]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 500]
+[Ask = 107.98]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 500]
+[Ask = 107.98]
+[AskSize = 18]
+
+
+[SmartServer_AddTick message]: Tick updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[DateTime = 3/25/2013]
+[Price = 107.98]
+[Volume = 2]
+[TradeNo = 712627773]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 500]
+[Ask = 107.98]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 17]
+[Ask = 107.98]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 7]
+[Ask = 107.98]
+[AskSize = 485]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 7]
+[Ask = 107.98]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 7]
+[Ask = 107.98]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 7]
+[Ask = 107.98]
+[AskSize = 218]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 7]
+[Ask = 107.98]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 17]
+[Ask = 107.98]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 17]
+[Ask = 107.98]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 17]
+[Ask = 107.98]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.96]
+[BidSize = 10]
+[Ask = 107.98]
+[AskSize = 20]
+
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = BR-4.13_FT]
+[strike = 0]
+[Punkt = 3.08055]
+[Step = 0.01]
+[Decimals = 2]
+[Money = 308.055]
+[shortname = BR-4.13]
+[expirydate = 4/16/2013] (21 days before expiry)
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.96]
+[BidSize = 10]
+[Ask = 107.98]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.96]
+[BidSize = 12]
+[Ask = 107.98]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.96]
+[BidSize = 12]
+[Ask = 107.99]
+[AskSize = 495]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.96]
+[BidSize = 12]
+[Ask = 107.98]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.96]
+[BidSize = 12]
+[Ask = 107.99]
+[AskSize = 495]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.96]
+[BidSize = 12]
+[Ask = 107.98]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 625]
+[Ask = 107.98]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 625]
+[Ask = 107.98]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 635]
+[Ask = 107.98]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 635]
+[Ask = 107.98]
+[AskSize = 30]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 7]
+[Ask = 107.97]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 12]
+[Ask = 107.97]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 12]
+[Ask = 107.97]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 10]
+[Ask = 107.96]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 10]
+[Ask = 107.96]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 10]
+[Ask = 107.96]
+[AskSize = 10]
+
+
+[SmartServer_AddTick message]: Tick updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[DateTime = 3/25/2013]
+[Price = 107.96]
+[Volume = 10]
+[TradeNo = 712628246]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 10]
+[Ask = 107.96]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 10]
+[Ask = 107.96]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 10]
+[Ask = 107.96]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 10]
+[Ask = 107.96]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 10]
+[Ask = 107.96]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 10]
+[Ask = 107.96]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 10]
+[Ask = 107.96]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 10]
+[Ask = 107.96]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 10]
+[Ask = 107.96]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 10]
+[Ask = 107.96]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 10]
+[Ask = 107.96]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.95]
+[BidSize = 10]
+[Ask = 107.96]
+[AskSize = 20]
+
+
+[SmartServer_AddTick message]: Tick updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[DateTime = 3/25/2013]
+[Price = 107.95]
+[Volume = 5]
+[TradeNo = 712628304]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.94]
+[BidSize = 2]
+[Ask = 107.95]
+[AskSize = 20]
+
+
+[SmartServer_AddTick message]: Tick updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[DateTime = 3/25/2013]
+[Price = 107.95]
+[Volume = 5]
+[TradeNo = 712628305]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.93]
+[BidSize = 2]
+[Ask = 107.96]
+[AskSize = 351]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.93]
+[BidSize = 2]
+[Ask = 107.96]
+[AskSize = 485]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.93]
+[BidSize = 2]
+[Ask = 107.95]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.92]
+[BidSize = 503]
+[Ask = 107.95]
+[AskSize = 20]
+
+
+[SmartServer_AddTick message]: Tick updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[DateTime = 3/25/2013]
+[Price = 107.95]
+[Volume = 1]
+[TradeNo = 712628375]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.92]
+[BidSize = 503]
+[Ask = 107.95]
+[AskSize = 19]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.92]
+[BidSize = 503]
+[Ask = 107.95]
+[AskSize = 20]
+
+
+[SmartServer_AddTick message]: Tick updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[DateTime = 3/25/2013]
+[Price = 107.95]
+[Volume = 1]
+[TradeNo = 712628398]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.92]
+[BidSize = 503]
+[Ask = 107.95]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.93]
+[BidSize = 2]
+[Ask = 107.95]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.92]
+[BidSize = 493]
+[Ask = 107.95]
+[AskSize = 20]
+
+
+[SmartServer_UpdateBidAsk message]: Bid/Ask updated for BR-4.13_FT
+[Symbol = BR-4.13_FT]
+[Bid = 107.92]
+[BidSize = 493]
+[Ask = 107.95]
+[AskSize = 20]
+

@@ -1,0 +1,60 @@
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SBER]
+[strike = 0]
+[Punkt = 1]
+[Step = 2]
+[Decimals = 2]
+[Money = 0,5]
+[shortname = Сбербанк]
+[expirydate = 30.12.1899] (-1 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SBER]
+[strike = 0]
+[Punkt = 1]
+[Step = 2]
+[Decimals = 2]
+[Money = 0,5]
+[shortname = Сбербанк]
+[expirydate = 30.12.1899] (-1 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SBER]
+[strike = 0]
+[Punkt = 1]
+[Step = 2]
+[Decimals = 2]
+[Money = 0,5]
+[shortname = Сбербанк]
+[expirydate = 30.12.1899] (-1 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SBER]
+[strike = 0]
+[Punkt = 1]
+[Step = 2]
+[Decimals = 2]
+[Money = 0,5]
+[shortname = Сбербанк]
+[expirydate = 30.12.1899] (-1 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SBER]
+[strike = 0]
+[Punkt = 1]
+[Step = 2]
+[Decimals = 2]
+[Money = 0,5]
+[shortname = Сбербанк]
+[expirydate = 30.12.1899] (-1 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SBER]
+[strike = 0]
+[Punkt = 1]
+[Step = 2]
+[Decimals = 2]
+[Money = 0,5]
+[shortname = Сбербанк]
+[expirydate = 30.12.1899] (-1 days before expiry)

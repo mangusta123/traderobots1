@@ -1,0 +1,10 @@
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SII_W]
+[strike = 0]
+[Punkt = 1]
+[Step = NaN]
+[Decimals = 2]
+[Money = NaN]
+[shortname = SII]
+[expirydate = 12/30/1899] (-1 days before expiry)

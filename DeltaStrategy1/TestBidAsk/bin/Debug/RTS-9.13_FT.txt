@@ -1,0 +1,60 @@
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,34386]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,634386]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (108 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,34386]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,634386]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (108 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,34386]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,634386]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (108 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,34386]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,634386]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (108 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,34386]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,634386]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (108 days before expiry)
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTS-9.13_FT]
+[strike = 0]
+[Punkt = 6,34386]
+[Step = 10]
+[Decimals = 0]
+[Money = 0,634386]
+[shortname = RTS-9.13]
+[expirydate = 16.09.2013] (108 days before expiry)

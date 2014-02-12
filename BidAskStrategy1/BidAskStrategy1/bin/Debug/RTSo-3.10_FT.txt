@@ -1,0 +1,10 @@
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTSo-3.10_FT]
+[strike = 0]
+[Punkt = 2,95195]
+[Step = 0.05]
+[Decimals = 2]
+[Money = 59,039]
+[shortname = RTSo-3.10]
+[expirydate = 12.03.2010] (0 days before expiry)

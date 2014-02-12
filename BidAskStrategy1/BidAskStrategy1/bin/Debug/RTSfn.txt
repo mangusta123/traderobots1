@@ -1,0 +1,10 @@
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = RTSfn]
+[strike = 0]
+[Punkt = 1]
+[Step = 2]
+[Decimals = 2]
+[Money = 0,5]
+[shortname = RTSfn]
+[expirydate = 30.12.1899] (-1 days before expiry)

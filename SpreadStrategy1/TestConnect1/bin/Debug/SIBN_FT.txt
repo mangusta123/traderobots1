@@ -1,0 +1,10 @@
+
+[SmartServer_AddSymbol message]: symbol detected
+[symbol = SIBN_FT]
+[strike = 0]
+[Punkt = 0.01]
+[Step = 0.01]
+[Decimals = 2]
+[Money = 1]
+[shortname = SIBN RTS-ST]
+[expirydate = 3/29/2013] (3 days before expiry)
