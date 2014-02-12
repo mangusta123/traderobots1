@@ -781,27 +781,7 @@ namespace BidAskStrategy1
             */
 
             //}
-
-            /*
-            if (row == nrows - 1) // если пришёл последний бар в запросе
-            {
-                if (InfoBars.Count == 0 || datetime > ToDateTimePicker.Value) // если время последнего бара больше выбранного
-                    try
-                    {
-                        DateTime dtFrom = (InfoBars.Count == 0 ? DateTime.Now : InfoBars.Last().Clock.AddMinutes(-60));
-                        Writers.WriteLine("Enegy", "log", "{0} GetBars {1}:{2} From {3}", DateTime.Now, SymbolTextBox.Text, GetInterval, dtFrom);
-                        // запросить 500 баров начиная с последнего в списке
-                        SmartServer.GetBars(SymbolTextBox.Text, GetInterval, dtFrom, 500);
-                    }
-                    catch (Exception Error)
-                    {
-                        Writers.WriteLine("Enegy", "log", "{0} Ошибка в GetBars {1}", DateTime.Now, Error.Message);
-                    }
-                else
-                    new Thread(ThreadBarsSave).Start(); // иначе, считать, что получены все и сохранить список баров
-            }
-
-            */
+   
         }
 
 
