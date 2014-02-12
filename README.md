@@ -56,7 +56,7 @@ begun
 
 2.DeltaStrategy is based on regularly preparing a close window, i.e. accumulating a specific number of 
 
-close values from minute bars, then calculating STDEV and Z-Score for them (definition of Z-score is given 
+close values from ticks, then calculating STDEV and Z-Score for them (definition of Z-score is given 
 
 in the code)
 
