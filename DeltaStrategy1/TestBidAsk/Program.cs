@@ -188,30 +188,15 @@ namespace BidAskStrategy1
 
                             SmartServer.GetSymbols();                                     /* get symbols list                                  */
 
-
-                            //     we need to get two bars for last two hours every hour at xx.00.00 and 
-                            //     o0 <= open  value of the very last bar 
-                            //     o1 <= open  value of the bar before the very last bar
-                            //     c1 <= close value of the bar before the very last bar
-                            //     and then apply the suggested algorithm
-
-                            //     hence 
-                            //     the first  invocation of AddBar should fill in o0  
-                            // and the second invocation of AddBar should fill in o1 and c1
-
-
-
-
-
                             //     SmartServer.GetBars("RTS-6.13_FT", StBarInterval.StBarInterval_60Min, DateTime.Now, 2);  
 
-                           // ListenSymbol("RTS-6.13_FT");                                  /* subscribe for ticks, bids & quotes of the         */
+                            // ListenSymbol("RTS-6.13_FT");                                  /* subscribe for ticks, bids & quotes of the         */
 
                             ListenSymbol("RTS-6.13_FT");
 
-                           // ListenSymbol("SBRF-6.13_FT");
+                            // ListenSymbol("SBRF-6.13_FT");
 
-                           // ListenSymbol("SBER");
+                            // ListenSymbol("SBER");
 
 
                             /* specified symbol                                  */
